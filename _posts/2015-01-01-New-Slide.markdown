@@ -26,6 +26,9 @@ vertical:		</section><section markdown="1">
 <img src="https://ahafeez7.github.io/project-pages/img/data.jpeg">
 <img src="https://matin-hub.github.io/project-pages/img//home-bg.jpg">
 
+<u>underline text</u>
+<underline>underline text</underline>
+
 Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling. 
 
 {{ page.horizontal }}

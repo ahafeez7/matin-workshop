@@ -23,6 +23,7 @@ vertical:		</section><section markdown="1">
 <!-- Start Writing Below in Markdown -->
 
 ## F11 to Fullscreen!
+<img src="https://github.com/ahafeez7/jekyll-revealjs/big_data.jpg">
 
 Showcasing Presentation Features. This template is ideal for very quickly creating decent presentations when content and simplicity is more important than excessive styling. 
 

@@ -57,7 +57,7 @@ vertical:		</section><section markdown="1">
 2. An example post and presentation of project pages.
 
 3. Setting up your own project pages
-[Project Pages Tutorial] (http://matin-hub.github.io/ppguide/installation)
+[Project Pages Tutorial](http://matin-hub.github.io/ppguide/installation)
 
 {{ page.horizontal }}
 

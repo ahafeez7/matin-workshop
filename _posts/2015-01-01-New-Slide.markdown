@@ -1,7 +1,7 @@
 ---
 layout:     	slide
-title:     		Presentation Headline
-date:      	2015-06-23 03:00 
+title:     	Setting up your own project pages
+date:      	2015-08-26 14:00 
 author:     	Materials Innovation
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
@@ -23,8 +23,48 @@ vertical:		</section><section markdown="1">
 <!-- Start Writing Below in Markdown -->
 
 ## F11 to Fullscreen!
-<img src="https://ahafeez7.github.io/project-pages/img/data.jpeg">
-<img src="https://matin-hub.github.io/project-pages/img//home-bg.jpg">
+<!-- <img src="https://ahafeez7.github.io/project-pages/img/data.jpeg"> 
+<img src="https://matin-hub.github.io/project-pages/img//home-bg.jpg"> -->
+
+
+{{ page.horizontal }}
+
+#Git, GitHub and Project Pages:
+
+{{ page.horizontal }}
+
+# Why version control?
+
+{{ page.horizontal }}
+
+# What is Git?
+
+{{ page.horizontal }}
+
+# What is Github?
+
+{{ page.horizontal }}
+
+# Create a Github account, if you don't have it already!
+
+
+{{ page.horizontal }}
+
+#Project Pages:
+
+1. What are project pages?
+
+2. An example post and presentation of project pages.
+
+3. Setting up your own project pages
+[Project Pages Tutorial] (http://matin-hub.github.io/ppguide/installation)
+
+{{ page.horizontal }}
+
+# The End
+
+{{ page.horizontal }}
+
 
 <u>underline text</u>
 <underline>underline text</underline>

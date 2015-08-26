@@ -50,7 +50,7 @@ vertical:		</section><section markdown="1">
 
 {{ page.horizontal }}
 
-#Project Pages:
+##Project Pages:
 
 1. What are project pages?
 

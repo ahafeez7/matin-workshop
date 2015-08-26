@@ -29,23 +29,23 @@ vertical:		</section><section markdown="1">
 
 {{ page.horizontal }}
 
-#Git, GitHub and Project Pages:
+##Git, GitHub and Project Pages:
 
 {{ page.horizontal }}
 
-# Why version control?
+##Why version control?
 
 {{ page.horizontal }}
 
-# What is Git?
+##What is Git?
 
 {{ page.horizontal }}
 
-# What is Github?
+##What is Github?
 
 {{ page.horizontal }}
 
-### Create a Github account, if you don't have it already!
+###Create a Github account, if you don't have it already!
 
 
 {{ page.horizontal }}

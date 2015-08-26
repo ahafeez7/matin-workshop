@@ -36,17 +36,20 @@ vertical:		</section><section markdown="1">
 ##Why version control?
 
 {{ page.horizontal }}
-
 ##What is Git?
+
+[Online example of Git](https://try.github.io/levels/1/challenges/7)
 
 {{ page.horizontal }}
 
 ##What is Github?
 
+[Topics on Version Control, Git, and Github](http://rcui9.github.io/Labs/lab1/2015/01/09/Lab-1.html)
+
 {{ page.horizontal }}
 
 ###Create a Github account, if you don't have it already!
-
+[Link to follow!](https://github.com/join)
 
 {{ page.horizontal }}
 

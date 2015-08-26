@@ -2,7 +2,7 @@
 layout:     	slide
 title:     	Setting up your own project pages
 date:      	2015-08-26 14:00 
-author:     	Materials Innovation
+author:     	Materials Informatics Class
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none

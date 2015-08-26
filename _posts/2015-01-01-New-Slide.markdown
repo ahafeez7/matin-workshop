@@ -22,8 +22,8 @@ vertical:		</section><section markdown="1">
 {{ page.horizontal }}
 <!-- Start Writing Below in Markdown -->
 
-## F11 to Fullscreen!
-<!-- <img src="https://ahafeez7.github.io/project-pages/img/data.jpeg"> 
+<!--## F11 to Fullscreen!
+ <img src="https://ahafeez7.github.io/project-pages/img/data.jpeg"> 
 <img src="https://matin-hub.github.io/project-pages/img//home-bg.jpg"> -->
 
 

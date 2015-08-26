@@ -55,6 +55,7 @@ vertical:		</section><section markdown="1">
 1. What are project pages?
 
 2. An example post and presentation of project pages.
+[Fred's Project](http://fredhohman.com/microstructure-grain-growth)
 
 3. Setting up your own project pages
 [Project Pages Tutorial](http://matin-hub.github.io/ppguide/installation)

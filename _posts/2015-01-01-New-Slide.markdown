@@ -45,7 +45,7 @@ vertical:		</section><section markdown="1">
 
 {{ page.horizontal }}
 
-# Create a Github account, if you don't have it already!
+### Create a Github account, if you don't have it already!
 
 
 {{ page.horizontal }}

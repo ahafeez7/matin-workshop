@@ -7,7 +7,7 @@ description: "Covers Project pages (tool for collaboration), tutorial on PyMKS, 
 baseurl: "/matin-workshop"
 url: "http://ahafeez7.github.io"
 github_username:  ahafeez7
-project_repository: MATIN-PyMKS-training
+project_repository: matin-workshop
 
 # Build settings
 # Don't change these variables

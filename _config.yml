@@ -1,13 +1,13 @@
 # Site settings
 
-title: Practice Workshop on MATIN
+title: Training on MATIN and PYMKS
 header-img: img/home-bg.jpg
 email: ahafeez@gatech.edu
 description: "Covers Project pages (tool for collaboration), tutorial on PyMKS, Homogenization and Localization"
 baseurl: "/matin-workshop"
 url: "http://ahafeez7.github.io"
 github_username:  ahafeez7
-project_repository: MATIN-PyMKS Workshop
+project_repository: MATIN-PyMKS-training
 
 # Build settings
 # Don't change these variables

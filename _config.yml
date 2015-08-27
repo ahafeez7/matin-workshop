@@ -4,9 +4,9 @@ title: Practice Workshop on MATIN/PyMKS
 header-img: img/home-bg.jpg
 email: ahafeez@gatech.edu
 description: "Workshop on MATIN and PyMKS"
-baseurl: "/project-pages"
-url: "http://matin-hub.github.io"
-github_username:  matin-hub
+baseurl: "/matin-workshop"
+url: "http://ahafeez7.github.io"
+github_username:  ahafeez7
 project_repository: MATIN-PyMKS Workshop
 
 # Build settings

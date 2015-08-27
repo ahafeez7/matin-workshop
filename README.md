@@ -1,3 +1,3 @@
-#Project Pages
+#Training on MATIN (project pages) and PyMKS
 
-Project Pages is Jekyll Template specifically geared towards collaborative science. For more information, click [here](http://matin-hub.github.io/ppguide/).
+This website is created in effort to organize a trianing workshop for MATIN, tutorial for creating and leveraging project pages and PyMKS for collaboration-based research. For more information on project pages, click [here](http://matin-hub.github.io/ppguide/).

@@ -1,8 +1,8 @@
 ---
 layout:     	slide
-title:     	Setting up your own project pages
-date:      	2015-08-26 14:00 
-author:     	Materials Informatics Class
+title:     	Training on MATIN and PYMKS
+date:      	2015-08-28 12:00 
+author:     Abdul and Fred
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none

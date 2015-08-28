@@ -2,7 +2,7 @@
 layout:     	slide
 title:     	Training on MATIN and PYMKS
 date:      	2015-08-28 12:30 
-author:     Abdul and Fred
+author:     David, Abdul and Fred
 
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none

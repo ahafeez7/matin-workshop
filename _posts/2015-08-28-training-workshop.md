@@ -42,7 +42,7 @@ vertical:		</section><section markdown="1">
 
 1. An e-Collaboration Platform for Materials Research.
 
-2. [MATERIALS INNOVATION](http://matin-hub.github.io/materialsinnovation.github.io/)
+2. [MATIN Tools Repository](http://matin-hub.github.io/materialsinnovation.github.io/)
 
 {{ page.horizontal }}
 

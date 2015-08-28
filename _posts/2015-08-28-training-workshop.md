@@ -28,6 +28,24 @@ vertical:		</section><section markdown="1">
 
 {{ page.horizontal }}
 
+##Agenda:
+
+1. 12:30 - 1:30   ---- MATIN and Project Pages (Abdul and Fred)
+2. 1:30 - 2:30     ---- PYMKS (David)
+3. 2:30 - 3:00    ---- Break 
+4. 3:00 - 3:45    ---- Homogenization Tutorial - Effective Stress (Alicia)
+5. 3:45 - 4:30    ---- Localization Tutorial- 2D Elasticity (Yuksel) 
+
+{{ page.horizontal }}
+
+##MATIN:
+
+1. An e-Collaboration Platform for Materials Research.
+
+2. [MATERIALS INNOVATION](http://matin-hub.github.io/materialsinnovation.github.io/)
+
+{{ page.horizontal }}
+
 ##Git, GitHub and Project Pages:
 
 {{ page.horizontal }}
